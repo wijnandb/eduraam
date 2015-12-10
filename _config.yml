@@ -1,0 +1,20 @@
+# Site settings
+title: Eduraam
+header-img: img/looking-at-starry-sky.jpeg
+email: wijnandb@retta.nl
+description: "Hoe help je scholen en docenten op weg naar gepersonaliseerd leren?"
+baseurl: ""
+url: ""
+twitter_username: wijnandb
+github_username:  PerceptumNL
+linkedin_username: wijnandbaretta
+# facebook_username:  wijnandb
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
