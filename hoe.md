@@ -23,3 +23,4 @@ In het kort komt het hier op neer:
 In een tijd waarin de behoefte bestaat om ook andere dan cognitieve vaardigheden te ontwikkelen, denk aan de zogenaamde "21st century skills", gaat dit mis. 
 De wisselwerking tussen leerling en docent moet in die zin veranderen, dat beide begrijpen waarom bepaalde kennis en vaardigheden moet worden opgedaan. Vervolgens kan dan ook beter worden gekeken naar de manier waarop dat het beste kan.
 
+
